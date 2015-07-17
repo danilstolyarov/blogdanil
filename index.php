@@ -154,5 +154,8 @@
 				<img src="images/3.jpg" alt="Новость-3" title="Новость-3">	
 			</div>
 		</div>
+			<footer>
+		lol
+		</footer>
 </body>
 </html>
