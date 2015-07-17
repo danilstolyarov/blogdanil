@@ -1,0 +1,18 @@
+a{text-decoration: none;}
+div.header {color:#000080; font-size:30px;background:#6495ED;text-align:center;}
+div.mid{ width: 1000px; margin:0 auto; margin-bottom: 40px; }
+div.mid h1{color:#000080; text-align:center;}
+div.mid p{color:#6495ED; font-size:20px; }
+div.recept img{float:right;}
+div.sec{width: 490px; height:300px; float: left;margin-bottom: 40px; text-indent: 20px;}
+div.sec:nth-of-type(even){ float: right;}
+div.left{float:left;font-size:22px;margin-left:30px;}
+div.comment p{color:#000080;}
+.pole{color:#000080; font-size:18px; border-color:#6495ED;}
+.knopka{color:#000080;background:#6495ED;font-size:18px;border-color:#000080;}
+.menu{ margin:0; font-size:20px;color:#6495ED; margin-right:20px;margin-top:10px;}
+.menu:hover{color:#FF0000;}
+div.sec1{width: 200px; height:300px; float: left;margin-bottom: 40px; text-indent: 20px;}
+.avtor{float:right;color:#6495ED;border:1px solid #6495ED; padding:10px;text-align:center;}
+.uvedomlenie h2{color:#6495ED;font-size:30px;}
+.uvedomlenie a{color:#6495ED;font-size:30px;text-decoration: underline;}
