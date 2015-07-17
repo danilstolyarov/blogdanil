@@ -16,7 +16,7 @@
 	?>
 	<div class="header">
 		<h1>
-			ВСтоловой.жру
+		Бяка.ru
 		</h1>
 	</div>
 	<div class="avtor">
